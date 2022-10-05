@@ -1,0 +1,9 @@
+{
+  "icons": [
+    { "src": "/webgate/static/skins/v3/images/logos/panel-mini-logo-96.png", "type": "image/png", "sizes": "96x96" },
+    { "src": "/webgate/static/skins/v3/images/logos/panel-mini-logo-180.png", "type": "image/png", "sizes": "96x96" },
+    { "src": "/webgate/static/skins/v3/images/logos/panel-mini-logo-192.png", "type": "image/png", "sizes": "96x96" },
+    { "src": "/webgate/static/skins/v3/images/logos/panel-mini-logo-400.png", "type": "image/png", "sizes": "96x96" },
+    { "src": "/webgate/static/skins/v3/images/logos/panel-mini-logo-512.png", "type": "image/png", "sizes": "96x96" }
+  ]
+}
