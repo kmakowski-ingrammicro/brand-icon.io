@@ -1,9 +1,9 @@
 {
   "icons": [
-    { "src": "/brand-icon.io/penguin-group-logo.jpgX", "type": "image/png", "sizes": "96x96" },
-    { "src": "/brand-icon.io/penguin-group-logo.jpgX", "type": "image/png", "sizes": "180x180" },
-    { "src": "/brand-icon.io/penguin-group-logo.jpgX", "type": "image/png", "sizes": "192x192" },
-    { "src": "/brand-icon.io/penguin-group-logo.jpgX", "type": "image/png", "sizes": "400x400" },
-    { "src": "/brand-icon.io/penguin-group-logo.jpgX", "type": "image/png", "sizes": "512x512" }
+    { "src": "/brand-icon.io/penguin-group-logo.jpg", "type": "image/png", "sizes": "96x96" },
+    { "src": "/brand-icon.io/penguin-group-logo.jpg", "type": "image/png", "sizes": "180x180" },
+    { "src": "/brand-icon.io/penguin-group-logo.jpg", "type": "image/png", "sizes": "192x192" },
+    { "src": "/brand-icon.io/penguin-group-logo.jpg", "type": "image/png", "sizes": "400x400" },
+    { "src": "/brand-icon.io/penguin-group-logo.jpg", "type": "image/png", "sizes": "512x512" }
   ]
 }
